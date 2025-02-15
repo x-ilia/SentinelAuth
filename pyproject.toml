@@ -3,7 +3,7 @@ name = "src"
 version = "0.0.1"
 description = ""
 authors = [{ name = "Iliukhin Ilia" }]
-requires-python = "~=3.9"
+requires-python = "~=3.12"
 readme = "README.md"
 dependencies = [
     "fastapi>=0.110.1",
