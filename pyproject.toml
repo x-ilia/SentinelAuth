@@ -40,6 +40,7 @@ dependencies = [
     "flake8-docstrings>=1.6.0",
     "flake8-unused-arguments>=0.0.6",
     "pep8-naming>=0.12.1",
+    "psycopg2-binary>=2.9.10",
 ]
 
 [build-system]
